@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Auto Refresh</title>
+  <style>
+    body {
+      width: 200px;
+      font-family: Arial, sans-serif;
+      padding: 10px;
+      text-align: center;
+    }
+    input, button {
+      width: 100%;
+      margin: 5px 0;
+      padding: 5px;
+    }
+    #pauseBtn {
+      display: block; /* Torna o botão de pause visível desde o início */
+    }
+  </style>
+</head>
+<body>
+  <h3>Auto Refresh</h3>
+  <label for="intervalInput">Intervalo (segundos):</label>
+  <input type="number" id="intervalInput" placeholder="Ex: 10" min="1">
+  <button id="startBtn">Iniciar</button>
+  <button id="pauseBtn">Pausar</button>
+  
+  <label for="updateAllTabs">Atualizar todas as abas</label>
+  <input type="checkbox" id="updateAllTabs">
+  
+  <script src="popup.js"></script>
+</body>
+</html>
