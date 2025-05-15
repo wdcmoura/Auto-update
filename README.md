@@ -1,4 +1,4 @@
-Extension for Google Chrome - Auto Update
+<b> Extension for Google Chrome - Auto Update <b>
 
 https://chromewebstore.google.com/detail/auto-refresh/opcnbjdlkhgehimnnolkpblgggmjbcph?authuser=0&hl=pt-BR
 
