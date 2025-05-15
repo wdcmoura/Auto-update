@@ -1,8 +1,6 @@
 # 🌐 Auto Refresh - Extensão para Google Chrome  
 [🔗 Disponível na Chrome Web Store](https://chromewebstore.google.com/detail/auto-refresh/opcnbjdlkhgehimnnolkpblgggmjbcph?authuser=0&hl=pt-BR)
 
-## 🇧🇷 Português
-
 Simplifique sua navegação com o **Auto Refresh**, uma extensão leve e prática para o Google Chrome que atualiza automaticamente suas abas no intervalo de tempo que você escolher.
 
 ### ✅ Ideal para:
